@@ -25,14 +25,17 @@ top: 0;
     align-items: center;
 
 }
+ /*
 main {
 display: flex;
     flex-direction: column;
     align-items: center;
     width: 55%;
+    justify-content: center;
  
 }
 form{
 border-bottom: 2px solid var(--text-color);
 
 }
+*/
