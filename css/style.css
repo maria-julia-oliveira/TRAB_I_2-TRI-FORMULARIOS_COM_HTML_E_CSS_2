@@ -32,6 +32,6 @@ display: flex;
  
 
 form{
-border-top: 2px solid var(--text-color);
+border-bottom: 2px solid var(--text-color);
 
 }
