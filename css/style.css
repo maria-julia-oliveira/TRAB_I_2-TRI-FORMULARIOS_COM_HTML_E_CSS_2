@@ -1,0 +1,15 @@
+:root{ 
+--background-color:rgba(0, 0, 0, 0.539);
+--text-color:black;
+}
+body{
+width: 100%;
+    height: 100vh;
+    background-color: var(--background-color);
+    color: var(--text-color);
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
