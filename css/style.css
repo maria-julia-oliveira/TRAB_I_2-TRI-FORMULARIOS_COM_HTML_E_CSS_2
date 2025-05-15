@@ -27,7 +27,6 @@ top: 0;
 main{
 display: flex;
     flex-direction: column;
-    justify-content: center;
     align-items: center;
     border: 2px solid var(--text-color);
     border-radius: 20px;
